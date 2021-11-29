@@ -10,6 +10,6 @@ namespace RomanDesafioWebAPI.Interfaces
     {
         List<Projeto> Listar();
 
-        void Cadastrar(Projeto novoCadastro);
+        void Cadastrar(Projeto novoProjeto);
     }
 }
